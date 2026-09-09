@@ -1,1 +1,1 @@
-welcome 
+view the content of a file in Git without manually navigating your directories or switching branches, you can use a few key commands depending on what exactly you need to see: [1] (https://stackoverflow.com/questions/7856416/view-a-file-in-a-different-git-branch-without-changing-branches)
