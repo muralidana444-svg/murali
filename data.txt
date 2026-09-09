@@ -1,3 +1,2 @@
-hi hello 
-  good night
+GitHub is a cloud-based platform used by developers to store, share, and collaborate on code. 
   
